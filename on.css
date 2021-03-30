@@ -1,6 +1,6 @@
 .bod {
     background-repeat: no-repeat;
-    background-color: pink;
+    background-color: white;
     background-image: url("Фон.jpg");
     background-size: 100% 50%;
     
@@ -19,7 +19,7 @@ h1 {
 
 li {
     font-size: 26px;
-    color: greenyellow;
+    color: green;
 }
 
 #p {
