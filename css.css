@@ -1,0 +1,73 @@
+.bod {
+    background-repeat: no-repeat;
+    background-color:white;
+    background-image: url("D:\\новая папка (2)\\фон.jpg");
+    background-size: 100% 50%;
+    
+}
+
+.bod1 {
+    background-repeat: no-repeat;
+    background-color:aqua;
+}
+
+h1 {
+    font-size: 40px;
+    color:crimson;
+    text-align: center;
+}
+
+li {
+    font-size: 26px;
+    color: green;
+}
+
+#p {
+    color: white;
+    font-size: 32px;
+    margin-left: 850px;
+    margin-top: 80px;
+}
+
+#pi1 {
+    color: white;
+    font-size: 28px;
+    margin-left: 890px;
+    margin-top: 10px;
+}
+
+#pi {
+    font-size: 28px;
+    color: white;
+    margin-left: 890px;
+}
+
+#pi2 {
+    margin-left: 70px;
+    font-size: 28px;
+    color: black;
+}
+
+.img{
+    position: relative;
+    left: 280px;
+    top: 43px;
+}
+
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.white {
+    color: white;
+}
+
+.lef {
+    margin-left: auto;
+}
