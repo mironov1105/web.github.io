@@ -1,0 +1,37 @@
+body {
+    background-image: url("D:/Chess/F3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: auto auto;
+}
+img { 
+    max-width: 100%; 
+    max-height: 100%; 
+} 
+h1 { 
+    font-size: 50px; 
+    margin-top: 30px; 
+    margin-bottom: 20px;
+    text-align: center;
+} 
+h2 { 
+    margin-top: 40px; 
+    margin-bottom: 20px; 
+} 
+
+p { 
+    font-size: 20px;
+    font-weight: 600;
+
+} 
+.p1 {
+    font-size: 28px;
+}
+.p2{
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;  
+    font-weight: 600;
+}
